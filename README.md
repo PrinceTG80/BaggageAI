@@ -30,3 +30,5 @@ Algorithm to implement:
 #### -> opacity for backrgound and overlay is set to 0.4 and 0.5 respecitively done by hit and trial
 #### -> Thus the weights are added and output combined image is found
 ![](BAGGAGE_20170524_075554_80428_Bout.png)
+
+# Thus completed the threat cut paste image processsing task with several processing activities
