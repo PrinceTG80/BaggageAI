@@ -1,4 +1,5 @@
-# BaggageAI
+# BaggageAI colab link: https://colab.research.google.com/drive/1LMjUnIuFWN05AGIlnCljCni86HEujX7b?usp=sharing 
+# github link: https://github.com/PrinceTG80/BaggageAI/blob/main/README.md
 Baggage AI Internship task activity
 Algorithm to implement:
 ## 1. Extracting cropped threat image from threat images given.
